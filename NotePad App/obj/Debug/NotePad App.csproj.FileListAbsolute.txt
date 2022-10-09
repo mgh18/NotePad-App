@@ -1,0 +1,12 @@
+C:\Users\marziyeh\source\repos\NotePad App\NotePad App\bin\Debug\NotePad App.exe.config
+C:\Users\marziyeh\source\repos\NotePad App\NotePad App\bin\Debug\NotePad App.exe
+C:\Users\marziyeh\source\repos\NotePad App\NotePad App\bin\Debug\NotePad App.pdb
+C:\Users\marziyeh\source\repos\NotePad App\NotePad App\obj\Debug\NotePad App.csproj.AssemblyReference.cache
+C:\Users\marziyeh\source\repos\NotePad App\NotePad App\obj\Debug\NotePad App.csproj.SuggestedBindingRedirects.cache
+C:\Users\marziyeh\source\repos\NotePad App\NotePad App\obj\Debug\NotePad_App.Form1.resources
+C:\Users\marziyeh\source\repos\NotePad App\NotePad App\obj\Debug\NotePad_App.Properties.Resources.resources
+C:\Users\marziyeh\source\repos\NotePad App\NotePad App\obj\Debug\NotePad App.csproj.GenerateResource.cache
+C:\Users\marziyeh\source\repos\NotePad App\NotePad App\obj\Debug\NotePad App.csproj.CoreCompileInputs.cache
+C:\Users\marziyeh\source\repos\NotePad App\NotePad App\obj\Debug\NotePad App.exe
+C:\Users\marziyeh\source\repos\NotePad App\NotePad App\obj\Debug\NotePad App.pdb
+C:\Users\marziyeh\source\repos\NotePad App\NotePad App\obj\Debug\NotePad_App.AddForm.resources
